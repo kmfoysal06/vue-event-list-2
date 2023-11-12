@@ -1,5 +1,4 @@
-# real-time-application
-
+# real-time-vue-application
 ## Project setup
 ```
 npm install
@@ -22,3 +21,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Live link
+live link : https://vue-event-list.onrender.com
